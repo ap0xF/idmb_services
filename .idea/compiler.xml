@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="reports" />
+        <module name="security" />
+        <module name="movie" />
+        <module name="rating" />
+        <module name="payment" />
+        <module name="stakeholders" />
+        <module name="event-log" />
+        <module name="exceptions" />
+        <module name="account" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pagination" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="account" options="-parameters" />
+      <module name="event-log" options="-parameters" />
+      <module name="movie" options="-parameters" />
+      <module name="payment" options="-parameters" />
+      <module name="rating" options="-parameters" />
+      <module name="reports" options="-parameters" />
+      <module name="security" options="-parameters" />
+      <module name="stakeholders" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../account/pom.xml" />
+        <option value="$PROJECT_DIR$/../event-log/pom.xml" />
+        <option value="$PROJECT_DIR$/../exceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/../movie/pom.xml" />
+        <option value="$PROJECT_DIR$/../payment/pom.xml" />
+        <option value="$PROJECT_DIR$/../rating/pom.xml" />
+        <option value="$PROJECT_DIR$/../reports/pom.xml" />
+        <option value="$PROJECT_DIR$/../security/pom.xml" />
+        <option value="$PROJECT_DIR$/../stakeholders/pom.xml" />
+        <option value="$PROJECT_DIR$/../ms-account/pom.xml" />
+        <option value="$PROJECT_DIR$/../lib-exceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/../ms-event-log/pom.xml" />
+        <option value="$PROJECT_DIR$/../ms-movie/pom.xml" />
+        <option value="$PROJECT_DIR$/../ms-payment/pom.xml" />
+        <option value="$PROJECT_DIR$/../ms-rating/pom.xml" />
+        <option value="$PROJECT_DIR$/../ms-reports/pom.xml" />
+        <option value="$PROJECT_DIR$/../ms-security/pom.xml" />
+        <option value="$PROJECT_DIR$/../ms-stakeholders/pom.xml" />
+        <option value="$PROJECT_DIR$/../pagination/pom.xml" />
+        <option value="$PROJECT_DIR$/../logging/pom.xml" />
+        <option value="$PROJECT_DIR$/../lib-pagination/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" project-jdk-name="azul-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

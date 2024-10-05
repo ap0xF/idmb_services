@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../lib-exceptions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lib-exceptions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lib-pagination/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lib-pagination/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-event-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-movie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-rating/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-reports/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-stakeholders/src/main/java" charset="UTF-8" />
+  </component>
+</project>
